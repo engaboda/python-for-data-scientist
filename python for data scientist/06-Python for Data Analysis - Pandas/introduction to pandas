@@ -1,0 +1,18 @@
+*pandas is open sourse library built on top of numpy
+*it allows for fast analysis and data cleaning and preperation
+*it excels in performance and productivity
+*it also has built in visualization feature
+*it can work with data from variety of sources
+
+#-----------------------------------------------------
+* to install it using conda just type -- conda install pandas
+* to install it using pip3 just fire --- pip3 install pandas
+#-----------------------------------------------------
+
+*series
+*DataFrames
+*missing Data
+*GroupBy
+*merging ,joining , and concatenating 
+*operation
+*data input and output(CSVFiles,excelFile, sqlFile and more)

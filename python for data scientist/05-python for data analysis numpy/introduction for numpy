@@ -1,0 +1,15 @@
+*numpy is a linear elgebra library for python ,
+the reason its so important for data science with python
+is that almost all of the library in the pydata ecosystem is
+rely on numpy as one of thier main building blocks
+
+
+*numpy is also incredably fast as it has binding to c libraries
+
+*you can install numpy using 
+        conda install numpy 
+        pip3 install numpy
+
+* numpy arrays are the main way we will use numpy throughout the course.
+* numpy array come in two falvors: vectors and matrices.
+* vector are strictly 1-d arrays and matrices ar 2-d (maybe matrix can hold 1 row ro 1 column) 
